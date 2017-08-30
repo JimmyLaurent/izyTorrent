@@ -1,0 +1,30 @@
+/* =========
+Your custom styles go here
+ ========= */
+.list-block-no-top-margin {
+  margin: 0 0 10px 0;
+}
+
+.nav-bar-small-text {
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.right.margin-right {
+    margin-right: 10px;
+}
+
+
+img {
+  display: block;
+  max-width:100%;
+  max-height:100%;
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar.navbar-no-shadow {
+  box-shadow:  none;
+}

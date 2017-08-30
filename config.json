@@ -1,0 +1,23 @@
+{
+    "torrentProviders": {
+        "torrent9": [],
+        "1337x": [],
+        "ThePirateBay": [],
+        "Yggtorrent": ["myLogin", "myPassword"],
+        "KickassTorrents": [],
+        "Rarbg": [],
+        "T411": [],
+        "TorrentProject": [],
+        "torrentz2": []
+    },
+    "utorrent": {
+        "host": "localhost",
+        "port": "8080",
+        "login": "myLogin",
+        "password": "myPassword"
+    },
+    "server" : {
+        "port": 80,
+        "htaccessFilePath":  "users.htpasswd"
+    }
+}
